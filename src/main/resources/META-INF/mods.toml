@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion= "[34,)"
+license = "All Right Reserved"
+[[mods]]
+modId = "ten3"
+version = "18.21a"
+displayName = "Technical Engineering 3"
+authors = "cm (Programming), Nova-Committee (Dev team)"
+description = '''
+Minecraft mod for 1.16+ by cm.
+Contributors: NEG, FanXingLuo.
+'''

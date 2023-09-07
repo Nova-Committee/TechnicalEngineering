@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BDB",
+    "ACA",
+    "BVB"
+  ],
+  "key": {
+    "A": {
+      "item": "ten3:detector"
+    },
+    "B": {
+      "tag": "forge:plates/powered_tin"
+    },
+    "C": {
+      "item": "ten3:redstone_storer"
+    },
+    "V": {
+      "item": "ten3:redstone_ai_advanced"
+    },
+    "D": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "ten3:machine_beacon_simulator"
+  }
+}

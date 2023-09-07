@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BDB",
+    "ACA",
+    "BVB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cactus"
+    },
+    "B": {
+      "tag": "forge:plates/tin"
+    },
+    "C": {
+      "item": "ten3:redstone_storer"
+    },
+    "V": {
+      "item": "ten3:redstone_ai"
+    },
+    "D": {
+      "item": "ten3:hydraulic_widget"
+    }
+  },
+  "result": {
+    "item": "ten3:machine_mob_ripper"
+  }
+}
